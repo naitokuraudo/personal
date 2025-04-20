@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Special+Gothic+Expanded+One&display=swap');
+@import "tailwindcss";
+
+@layer base {
+    * {
+        font-family: "Special Gothic Expanded One", sans-serif;
+    }
+}
+
+@layer utilities {
+    .social-link {
+        @apply transition duration-300 transform ease-in-out text-white hover:text-gray-400;
+    }
+}
