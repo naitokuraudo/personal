@@ -1,0 +1,29 @@
+<script setup>
+import Header from '@/components/Header.vue'
+import {RiTelegramFill, RiMailFill} from '@remixicon/vue'
+</script>
+
+<template>
+  <main>
+    <div class="flex items-center gap-3 mt-10 container mx-auto">
+      <Header />
+      <span class="text-gray-400 text-base">/ contacts</span>
+    </div>
+    <section class="container mx-auto mt-10">
+      <ul class="flex flex-col flex-wrap gap-3">
+        <li class="flex items-center gap-1.5">
+          <RiTelegramFill color="white" size="20px" />
+          <a target="_blank" class="link" href="https://t.me/pursuitofdreams">@pursuitofdreams</a>
+        </li>
+        <li class="flex items-center gap-1.5">
+          <RiMailFill color="white" size="20px" />
+          <a class="link" href="mailto:serwer212@mail.ru">serwer212@mail.ru</a>
+        </li>
+      </ul>
+    </section>
+  </main>
+</template>
+
+<style scoped>
+
+</style>
