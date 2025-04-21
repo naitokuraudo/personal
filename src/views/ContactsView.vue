@@ -4,7 +4,7 @@ import {RiTelegramFill, RiMailFill, RiGithubFill} from '@remixicon/vue'
 </script>
 
 <template>
-  <main>
+  <main class="px-4">
     <div class="flex items-center gap-3 mt-10 container mx-auto">
       <Header />
       <span class="text-gray-400 text-base">/ contacts</span>
