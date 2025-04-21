@@ -1,6 +1,6 @@
 <script setup>
 import Header from '@/components/Header.vue'
-import {RiTelegramFill, RiMailFill} from '@remixicon/vue'
+import {RiTelegramFill, RiMailFill, RiGithubFill} from '@remixicon/vue'
 </script>
 
 <template>
@@ -17,7 +17,11 @@ import {RiTelegramFill, RiMailFill} from '@remixicon/vue'
         </li>
         <li class="flex items-center gap-1.5">
           <RiMailFill color="white" size="20px" />
-          <a class="link" href="mailto:serwer212@mail.ru">serwer212@mail.ru</a>
+          <a target="_blank" class="link" href="mailto:serwer212@mail.ru">serwer212@mail.ru</a>
+        </li>
+        <li class="flex items-center gap-1.5">
+          <RiGithubFill color="white" size="20px" />
+          <a target="_blank" class="link" href="https://github.com/naitokuraudo">naitokuraudo</a>
         </li>
       </ul>
     </section>

@@ -2,7 +2,7 @@
 
 Personal website of naitokuraudo
 
-![Project Preview](https://i.postimg.cc/8PF402Ls/image.png)
+![Project Preview](https://i.postimg.cc/zGmPbvSS/image.png)
 
 ## Table of Contents
 
@@ -36,11 +36,13 @@ To use this project, follow these steps:
 
 ## Directory Structure
 
-| Name               | Description                    |
-|--------------------|--------------------------------|
-| **public/**        | Static assets (assets, fonts). |
-| **src/**           | Source files.                  |
-| **src/components** | Vue components.                |
+| Name               | Description                   |
+|--------------------|-------------------------------|
+| **public/**        | Static assets (assets, fonts).|
+| **src/**           | Source files.                 |
+| **src/components** | Vue components.               |
+| **src/router**     | Page routing and navigation.  |
+| **src/views**      | Application pages.            |
 
 ## Technologies Used
 
