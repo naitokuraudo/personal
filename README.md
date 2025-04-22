@@ -1,6 +1,6 @@
 # Personal
 
-Personal website of naitokuraudo
+Personal website of naitokuraudo group
 
 ![Project Preview](https://i.postimg.cc/zGmPbvSS/image.png)
 
