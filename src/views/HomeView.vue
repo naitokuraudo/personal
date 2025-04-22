@@ -4,9 +4,9 @@ import NavLinks from '@/components/NavLinks.vue'
 </script>
 
 <template>
-  <section class="container mx-auto mt-10">
+  <section class="container mx-auto">
     <Header/>
-    <nav class="mt-10">
+    <nav class="mt-6">
       <NavLinks/>
     </nav>
   </section>
