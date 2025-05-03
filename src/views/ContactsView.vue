@@ -13,7 +13,7 @@ import {RiTelegramFill, RiMailFill, RiGithubFill} from '@remixicon/vue'
       </li>
       <li class="flex items-center gap-1.5">
         <RiMailFill color="white" size="20px"/>
-        <a target="_blank" class="link" href="mailto:serwer212@mail.ru">serwer212@mail.ru</a>
+        <a target="_blank" class="link" href="mailto:naitokuraudo@mail.ru">naitokuraudo@mail.ru</a>
       </li>
       <li class="flex items-center gap-1.5">
         <RiGithubFill color="white" size="20px"/>

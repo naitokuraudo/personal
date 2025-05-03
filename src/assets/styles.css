@@ -5,6 +5,10 @@
     * {
         font-family: "Special Gothic Expanded One", sans-serif;
     }
+
+    ::selection {
+        background: transparent;
+    }
 }
 
 @layer utilities {
@@ -19,5 +23,9 @@
 
     .link:hover::before {
         @apply w-full;
+    }
+
+    .social-link {
+        @apply transition duration-300 ease-in-out hover:-translate-y-1;
     }
 }
