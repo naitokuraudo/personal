@@ -1,13 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Special+Gothic+Expanded+One&display=swap');
 @import "tailwindcss";
+@import "./fonts/fonts.css";
+
+@theme {
+    --font-display: "Special Gothic Expanded One";
+}
 
 @layer base {
     * {
-        font-family: "Special Gothic Expanded One", sans-serif;
+        font-family: var(--font-display), sans-serif;
     }
 
     ::selection {
-        background: transparent;
+        background-color: transparent;
     }
 }
 
