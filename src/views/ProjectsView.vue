@@ -11,7 +11,7 @@ import Header from '@/components/Header.vue'
         <span class="text-green-200">(supported)</span>
       </li>
       <li class="flex items-center gap-1.5">
-        <a target="_blank" class="link" href="https://hydrostankotech.ru/">hydrostation</a>
+        <a target="_blank" class="link" href="https://hydrostankotech.ru/">hydrostankotech</a>
         <span class="text-green-200">(supported)</span>
       </li>
     </ul>
