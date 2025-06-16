@@ -38,7 +38,7 @@ To use this project, follow these steps:
 
 | Name               | Description                   |
 |--------------------|-------------------------------|
-| **public/**        | Static assets (assets, fonts).|
+| **public/**        | Static assets                 |
 | **src/**           | Source files.                 |
 | **src/components** | Vue components.               |
 | **src/router**     | Page routing and navigation.  |
@@ -47,7 +47,7 @@ To use this project, follow these steps:
 ## Technologies Used
 
 - HTML
-- CSS (TailwindCSS)
+- CSS (TailwindCSS v4)
 - [VueJS3](https://vuejs.org/)
 - [ViteJS](https://vitejs.dev/)
 
