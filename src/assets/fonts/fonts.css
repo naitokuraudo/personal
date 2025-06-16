@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Special Gothic Expanded One';
+    src: local('Special Gothic Expanded One Regular'),
+        local('SpecialGothicExpandedOne-Regular'),
+        url(../fonts/SpecialGothicExpandedOne-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
