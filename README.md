@@ -46,10 +46,12 @@ To use this project, follow these steps:
 
 ## Technologies Used
 
-- HTML
-- CSS (TailwindCSS v4)
+- [HTML5](https://ru.wikipedia.org/wiki/HTML5)
+- [CSS3 (TailwindCSS v4)](https://tailwindcss.com/docs/installation/using-vite)
 - [VueJS3](https://vuejs.org/)
 - [ViteJS](https://vitejs.dev/)
+- [Vue Router](https://router.vuejs.org/)
+- [RemixIcon for Vue](https://github.com/Remix-Design/RemixIcon)
 
 ## Project Status
 
