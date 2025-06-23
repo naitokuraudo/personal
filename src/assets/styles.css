@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@import "./fonts/fonts.css";
+
+@theme {
+    --font-display: "Special Gothic Expanded One";
+}
+
+@layer base {
+    * {
+        font-family: var(--font-display), sans-serif;
+    }
+
+    ::selection {
+        background-color: transparent;
+    }
+}
+
+@layer utilities {
+    .link {
+        @apply relative inline-block text-white text-base transition-all duration-300;
+    }
+
+    .link::before {
+        content: '';
+        @apply absolute left-0 top-1/2 h-[2px] w-0 bg-white transition-all duration-300;
+    }
+
+    .link:hover::before {
+        @apply w-full;
+    }
+
+    .social-link {
+        @apply transition duration-300 ease-in-out hover:-translate-y-1;
+    }
+}
