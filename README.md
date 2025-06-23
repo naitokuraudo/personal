@@ -46,10 +46,20 @@ To use this project, follow these steps:
 
 ## Technologies Used
 
-- HTML
-- CSS (TailwindCSS v4)
-- [VueJS3](https://vuejs.org/)
+- [HTML5](https://ru.wikipedia.org/wiki/HTML5)
+- [CSS3 (TailwindCSS v4)](https://tailwindcss.com/docs/installation/using-vite)
+- [VueJS 3](https://vuejs.org/)
 - [ViteJS](https://vitejs.dev/)
+- [Vue Router](https://router.vuejs.org/)
+- [Unhead](https://unhead.unjs.io/)
+- [RemixIcon for Vue](https://github.com/Remix-Design/RemixIcon)
+- [TypeScript](https://www.typescriptlang.org/)
+- [vue-tsc (type checker)](https://github.com/vuejs/language-tools)
+- [Prettier](https://prettier.io/)
+- [ESLint + eslint-plugin-vue](https://eslint.vuejs.org/)
+- [Oxlint (Rust-based linter)](https://oxlint.io/)
+- [npm-run-all2 (task runner)](https://github.com/mysticatea/npm-run-all)
+- [Vite Plugin Vue Devtools](https://github.com/webfansplz/vite-plugin-vue-devtools)
 
 ## Project Status
 
